@@ -12,7 +12,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+!lib/ai-skills/
 lib64/
 parts/
 sdist/
@@ -113,7 +113,7 @@ override.tf.json
 # ============ IDE & Editors ============
 .idea/
 *.iml
-.vscode/
+!.vscode/
 *.swp
 *.swo
 *~
