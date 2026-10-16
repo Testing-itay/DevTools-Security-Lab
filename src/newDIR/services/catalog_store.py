@@ -1,5 +1,7 @@
 
 
+
+
 """Catalog persistence and enrichment for the product index."""
 
 import logging

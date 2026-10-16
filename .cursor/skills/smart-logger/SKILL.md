@@ -1,5 +1,7 @@
 
 
+
+
 ---
 name: Smart Logger
 description: Add intelligent logging statements to your codebase

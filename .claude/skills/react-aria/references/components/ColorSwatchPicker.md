@@ -1,5 +1,7 @@
 
 
+
+
 # ColorSwatchPicker
 
 A ColorSwatchPicker displays a list of color swatches and allows a user to select one of them.

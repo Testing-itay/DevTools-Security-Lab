@@ -1,5 +1,7 @@
 
 
+
+
 ---
 name: budget-guard
 description: Blocks changes that raise projected monthly spend.

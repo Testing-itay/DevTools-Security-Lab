@@ -1,5 +1,7 @@
 
 
+
+
 # Switch
 
 A switch allows a user to turn a setting on or off.

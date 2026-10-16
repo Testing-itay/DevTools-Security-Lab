@@ -1,5 +1,7 @@
 
 
+
+
 # Language
 
 Shared vocabulary for every suggestion this skill makes. Use these terms exactly — don't substitute "component," "service," "API," or "boundary." Consistent language is the whole point.

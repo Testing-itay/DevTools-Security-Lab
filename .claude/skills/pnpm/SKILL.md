@@ -1,5 +1,7 @@
 
 
+
+
 ---
 name: pnpm
 description: Node.js package manager with strict dependency resolution. Use when running pnpm specific commands, configuring workspaces, or managing dependencies with catalogs, patches, or overrides.

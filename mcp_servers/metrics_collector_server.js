@@ -1,5 +1,7 @@
 
 
+
+
 /**
  * MCP Server: Metrics Collector — Collect and expose project health metrics.
  */

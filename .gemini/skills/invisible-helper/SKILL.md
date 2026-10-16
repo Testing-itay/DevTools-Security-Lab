@@ -1,5 +1,7 @@
 
 
+
+
 ---
 name: Invisible Helper
 description: Provide smart code suggestions based on context analysis

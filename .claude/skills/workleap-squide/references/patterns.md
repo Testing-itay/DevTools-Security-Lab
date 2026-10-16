@@ -1,5 +1,7 @@
 
 
+
+
 # Squide Patterns and Best Practices
 
 ## Table of Contents

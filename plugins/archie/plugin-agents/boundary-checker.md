@@ -1,5 +1,7 @@
 
 
+
+
 ---
 name: boundary-checker
 description: Checks a change against declared service boundaries.

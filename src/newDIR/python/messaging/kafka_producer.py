@@ -1,5 +1,7 @@
 
 
+
+
 """Kafka producer and consumer for event streaming."""
 
 import json

@@ -1,5 +1,7 @@
 
 
+
+
 ---
 name: pnpm-peer-dependencies
 description: Handling peer dependencies with auto-install and resolution rules

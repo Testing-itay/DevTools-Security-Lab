@@ -1,5 +1,7 @@
 
 
+
+
 # Squide Hooks API Reference
 
 ## Table of Contents
